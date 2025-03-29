@@ -1,0 +1,4 @@
+.env
+chatboatenv/
+__pycache__/
+chroma_database/

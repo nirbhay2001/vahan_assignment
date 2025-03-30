@@ -1,9 +1,9 @@
-## AI Chatbot - Smart Conversational Assistant
+## Support AI Chatbot - Smart Conversational Assistant
 This project is an AI-powered chatbot designed to provide intelligent responses to user queries. It can understand user inputs, maintain context, and generate meaningful follow-up responses.
 
 ![Chatbot UI](https://res.cloudinary.com/dgejijgss/image/upload/v1743283335/vahan_project_UI_response_image_tilild.jpg )
 
-## 🚀 Key Features (Support Chatbot)
+## 🚀 Key Features (Support AI Chatbot)
 
 -  **AI-Powered Chatbot** for answering user queries about a fictional SaaS product  
 -  **Chat History Management** using Redis for efficient storage and retrieval  
@@ -27,8 +27,8 @@ This project is an AI-powered chatbot designed to provide intelligent responses 
 
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/nirbhay2001/chatbot-analytics.git
-   cd chatbot-analytics
+   git clone https://github.com/nirbhay2001/vahan_assignment
+   cd vahan_assignment
 
 
 2. Environment Variables 
